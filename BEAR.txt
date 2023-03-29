@@ -1,2 +1,2 @@
 This is another test for conflict.
-Conflict is so annoying. !
+Conflict is so annoying. !!
